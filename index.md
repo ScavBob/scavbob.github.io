@@ -1,3 +1,3 @@
 ## CS353 Documents
 
-- Proposal: [link](CS353 Proposal.pdf)
+- Proposal: [link](Documents/CS353 Proposal.pdf)
